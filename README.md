@@ -12,7 +12,7 @@
 
 `npm install` to setup dependencies
 
-## Supabase variables
+## Supabase variables 
 
 Create a `.env` file with `VITE_SUPABASE_URL` and `VITE_SUPABASE_KEY` (see env.example)
 
